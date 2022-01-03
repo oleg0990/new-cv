@@ -1,0 +1,33 @@
+body{
+    background: rgb(39, 4, 24);
+font-size: 20px;
+font-weight:normal;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h1{color: white;}
+h2{color: white;}
+ol{color: white;}
+td{color: white;}
+p{color: white;}
+.avatar{width: 200px;border-radius: 28px;box-shadow: 4px 4px 14px rgba(rgb(183, 0, 255), green, blue, alpha);}
+.social{background: red;
+    border-radius: 20px;
+padding: 15px;
+border: 5px solid red;}
+.sociall{background:blue;
+border-radius: 20px;}
+.socialll{background: green;
+border-radius: 5px;}
+.box{max-width: 750px;
+margin:auto}
+a:hover{text-decoration: underline;}
+.form-group label{display:block;
+font-size: 14px;
+color: #86898f;}
+.form-group input{width: 100%;
+box-sizing: border-box;
+border: none;
+padding: 15px 0 10px;}
+.bt {background: rgb(183, 0, 255);
+font-family: Georgia, 'Times New Roman', Times, serif;
+border: none;
+padding: 15px 20px;}
